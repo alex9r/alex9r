@@ -15,15 +15,20 @@ My experience spans:
 
 ## I’m passionate about building systems that are both technically deep and genuinely useful. If you’re interested in AI, security, or machine learning, or just want to exchange ideas, I’d love to connect 🌐
 <p align="left">
-  
   <a href="https://linkedin.com/in/alexandra-roszczenko" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" 
-         width="40" />
+         width="75" />
   </a>
-
-  <a href="mailto:aroszcze@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-@aroszcze.uwaterloo.ca-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://alex9r-portfolio.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/alex9r/alex9r/main/portfolio_icon.png" 
+         alt="Portfolio" 
+         width="75" />
+  </a>
+  <a href="mailto:aroszcze@uwaterloo.ca" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/new-post.png" 
+         alt="Email" 
+         width="70" />
   </a>
 </p>
 <!--
